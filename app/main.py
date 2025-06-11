@@ -9,4 +9,4 @@ async def favicon():
 
 @app.get("/")
 async def welcome() -> dict:
-    return {"message": "Hello World!!!"}
+    return {"message": "Hello World!!!~~"}
